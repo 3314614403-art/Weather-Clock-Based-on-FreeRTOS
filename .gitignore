@@ -1,0 +1,7 @@
+/app/local_config.h
+/app/tmp/
+/mdk/*
+!/mdk/*.uvprojx
+**/@eaDir/
+__pycache__/
+*.pyc
